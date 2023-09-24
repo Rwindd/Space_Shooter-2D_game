@@ -1,0 +1,29 @@
+﻿  main.cpp
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(29,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(29,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(37,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(66,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(66,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(68,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(95,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(96,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(148,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(149,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(153,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(154,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(185,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(205,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(206,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(207,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(218,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(239,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(239,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(260,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(260,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(269,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(269,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(269,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(281,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(281,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SMFL GROUP\SMFL template\SMFL template\main.cpp(302,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SMFL template.vcxproj -> D:\SMFL GROUP\SMFL template\x64\Debug\SMFL template.exe
